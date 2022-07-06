@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		4F8D39292875615F001F3A1A /* Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Tree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4F9DA8A828729D87009EB5D1 /* DoublyLinkList.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DoublyLinkList.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4FEB34F6286D69CF00091C93 /* LeetCode-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LeetCode-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FEB3508286D69F100091C93 /* Array1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Array1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
@@ -22,6 +24,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4F8D392828756107001F3A1A /* Tree */ = {
+			isa = PBXGroup;
+			children = (
+				4F8D39292875615F001F3A1A /* Tree.playground */,
+			);
+			path = Tree;
+			sourceTree = "<group>";
+		};
+		4F9DA8A728729D6A009EB5D1 /* LinkList */ = {
+			isa = PBXGroup;
+			children = (
+				4F9DA8A828729D87009EB5D1 /* DoublyLinkList.playground */,
+			);
+			path = LinkList;
+			sourceTree = "<group>";
+		};
 		4FEB34ED286D69CF00091C93 = {
 			isa = PBXGroup;
 			children = (
@@ -41,6 +59,8 @@
 		4FEB34F8286D69CF00091C93 /* LeetCode-Swift */ = {
 			isa = PBXGroup;
 			children = (
+				4F8D392828756107001F3A1A /* Tree */,
+				4F9DA8A728729D6A009EB5D1 /* LinkList */,
 				4FEB3507286D69E100091C93 /* Array */,
 			);
 			path = "LeetCode-Swift";
