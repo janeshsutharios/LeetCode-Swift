@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		4F18DD192878361D00692D0B /* SinglyLinkList.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SinglyLinkList.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4F8D39292875615F001F3A1A /* Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Tree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4F8D392B2875B0AA001F3A1A /* Stack.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Stack.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4F9DA8A828729D87009EB5D1 /* DoublyLinkList.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DoublyLinkList.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -45,6 +46,7 @@
 			isa = PBXGroup;
 			children = (
 				4F9DA8A828729D87009EB5D1 /* DoublyLinkList.playground */,
+				4F18DD192878361D00692D0B /* SinglyLinkList.playground */,
 			);
 			path = LinkList;
 			sourceTree = "<group>";
